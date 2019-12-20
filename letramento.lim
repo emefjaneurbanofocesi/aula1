@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FF4646</corbanda>
+        <cornavega>FDFD00</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>ALFABETIZAÇÃO E LETRAMENTO</subtitulo>
+        <logo>logoeducadigital.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRETO</correcto>
+        <incorrecto son="" modo="1" >INCORRETO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="103" posy="-23">ALFABETO_.jpg</imaxe>
+              <texto posx="62" posy="240" ancho="495" largo="112"><![CDATA[
+<p align="center">
+<font color="#000000" face="Calibri" size="24"><b>ALFABETIZAÇÃO E LETRAMENTO</b><br>
+</font><font color="#000000" face="Cambria" size="12">ENSINO FUNDAMENTAL I<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="114" posy="2">ABC.jpg</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>4</tipo>
+              <cabeceira>CAÇA-PALAVRAS</cabeceira>
+              <modo>1</modo>
+              <sopa enun="BOI">BOI</sopa>
+              <sopa enun="BOTO">BOTO</sopa>
+              <sopa enun="BALEIA">BALEIA</sopa>
+              <sopa enun="BARATA">BARATA</sopa>
+              <sopa enun="BÚFALO">BÚFALO</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTA IMAGEM</cabeceira>
+              <peza imaxe="A.jpg" texto="" son="">Avi_ao-desenho.jpg</peza>
+              <peza imaxe="B.jpeg" texto="" son="">BALEIA.png</peza>
+              <peza imaxe="C.jpg" texto="" son="">cachorro.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTA IMAGEM</cabeceira>
+              <peza imaxe="LETRA_d.jpg" texto="" son="">dado.jpg</peza>
+              <peza imaxe="rLetraE.PNG" texto="" son="">elefante.jpg</peza>
+              <peza imaxe="FFF.jpg" texto="" son="">FACA-DE-CHEF.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTA IMAGEM</cabeceira>
+              <peza imaxe="GGG.jpg" texto="" son="">GIRAFA.png</peza>
+              <peza imaxe="HHH.png" texto="" son="">helicoptero.png</peza>
+              <peza imaxe="II.png" texto="" son="">indio.gif</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTA IMAGEM</cabeceira>
+              <peza imaxe="JJJ.jpg" texto="" son="">janela.png</peza>
+              <peza imaxe="kk.jpg" texto="" son="">KIWI.jpg</peza>
+              <peza imaxe="lll.png" texto="" son="">le_ao.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTA IMAGEM</cabeceira>
+              <peza imaxe="MMM.jpg" texto="" son="">menina.png</peza>
+              <peza imaxe="NN.jpg" texto="" son="">NAVIO.jpg</peza>
+              <peza imaxe="OOO.png" texto="" son="">OLHO.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTA IMAGEM</cabeceira>
+              <peza imaxe="PPP.jpg" texto="" son="">PEIXES.jpg</peza>
+              <peza imaxe="QQQ.jpg" texto="" son="">QUEIJO.jpg</peza>
+              <peza imaxe="RR.png" texto="" son="">RATO.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="10" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTA IMAGEM</cabeceira>
+              <peza imaxe="SSS.png" texto="" son="">SAPO.png</peza>
+              <peza imaxe="TTT.jpg" texto="" son="">TATU.jpg</peza>
+              <peza imaxe="UUU.png" texto="" son="">UVA.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTA IMAGEM</cabeceira>
+              <peza imaxe="VVV.jpg" texto="" son="">VIOLAO.png</peza>
+              <peza imaxe="WWW.png" texto="" son="">WWW.png</peza>
+              <peza imaxe="XXX.png" texto="" son="">XUXA.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="12" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTA IMAGEM</cabeceira>
+              <peza imaxe="YY.jpg" texto="" son="">YY.jpg</peza>
+              <peza imaxe="Z_GRA.png" texto="" son="">ZEBRA.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="13" >
+              <tipo>43</tipo>
+              <cabeceira>DESCUBRA A PALAVRA</cabeceira>
+              <imaxe>BOI.jpg</imaxe>
+              <texto>QUAL NOME DESSE ANIMAL?</texto>
+              <completa post="BJOKI">BOI</completa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>6</tipo>
+              <cabeceira>SEPARE OS NOMES DE ACORDO COM OS  GRUPOS</cabeceira>
+              <nome caixa="1">ANA</nome>
+              <nome caixa="1">GABRIELA</nome>
+              <nome caixa="1">MARIANA</nome>
+              <nome caixa="2">PAULO</nome>
+              <nome caixa="2">GUILHERME</nome>
+              <nome caixa="2">JOÃO</nome>
+              <caixa1>MENINAS</caixa1>
+              <caixa2>MENINOS</caixa2>
+        </paxina>
+        <paxina id="15" >
+              <tipo>6</tipo>
+              <cabeceira>SEPARE OS ALIMENTOS DOS ANIMAIS</cabeceira>
+              <nome caixa="1">MAMÃO</nome>
+              <nome caixa="1">PÃO</nome>
+              <nome caixa="1">MACARRÃO</nome>
+              <nome caixa="2">FURÃO</nome>
+              <nome caixa="2">LEÃO</nome>
+              <nome caixa="2">PAVÃO</nome>
+              <caixa1>COMIDAS</caixa1>
+              <caixa2>ANIMAIS</caixa2>
+        </paxina>
+        <paxina id="16" >
+              <tipo>43</tipo>
+              <cabeceira>DESCUBRA A PALAVRA</cabeceira>
+              <imaxe>le_ao.png</imaxe>
+              <texto>QUAL ANIMAL CORRESPONDE Á FIGURA?</texto>
+              <completa post="LEÃSWO">LEÃO</completa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>19</tipo>
+              <cabeceira>DESCUBRA A PALAVRA</cabeceira>
+              <imaxe>GIRAFA.png</imaxe>
+              <texto><![CDATA[QUAL ANIMAL CORRESPONDE Á FIGURA?]]></texto>
+              <resp texto="GKIRJALFZAG">GIRAFA</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="18" >
+              <tipo>19</tipo>
+              <cabeceira>DESCUBRA A PALAVRA</cabeceira>
+              <imaxe>GALINHA1.jpg</imaxe>
+              <texto><![CDATA[QUAL ANIMAL CORRESPONDE Á FIGURA?]]></texto>
+              <resp texto="GHAULWIENAHWA">GALINHA</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>19</tipo>
+              <cabeceira>DESCUBRA A PALAVRA</cabeceira>
+              <imaxe>SAPO.png</imaxe>
+              <texto><![CDATA[QUAL ANIMALCORRESPONDE Á FIGURA?]]></texto>
+              <resp texto="SDAOPIO">SAPO</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="20" >
+              <tipo>20</tipo>
+              <cabeceira>ARRASTE AS ETIQUETAS</cabeceira>
+              <imaxe>FAZENDA.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="167" posy="148">CASA</etiqueta>
+              <etiqueta posx="46" posy="273">CACHORRO</etiqueta>
+              <etiqueta posx="167" posy="257">COELHO</etiqueta>
+              <etiqueta posx="72" posy="88">PÁSSARO</etiqueta>
+        </paxina>
+        <paxina id="21" >
+              <tipo>13</tipo>
+              <cabeceira>ARRASTE OS NOMES</cabeceira>
+              <unir texto="A">AMANDA</unir>
+              <unir texto="B">BRUNO</unir>
+              <unir texto="C">CARLOS</unir>
+              <unir texto="D">DANILO</unir>
+              <unir texto="E">ESTER</unir>
+        </paxina>
+        <paxina id="22" >
+              <tipo>11</tipo>
+              <cabeceira>IDENTIFIQUE AS IMAGENS</cabeceira>
+              <modo>3</modo>
+              <cousa nome="ZEBRA">ZEBRA.png</cousa>
+              <cousa nome="TATU">TATU.jpg</cousa>
+              <cousa nome="BALEIA">BALEIA.png</cousa>
+              <cousa nome="TUCANO">TUCANO.jpg</cousa>
+              <cousa nome="MENINA">menina.png</cousa>
+        </paxina>
+        <paxina id="23" >
+              <tipo>24</tipo>
+              <cabeceira>TEM MUITOS DENTES E NUNCA COME</cabeceira>
+              <etiqueta imaxe="PENTE.png" texto="">0</etiqueta>
+              <etiqueta imaxe="DENTE.png" texto="">1</etiqueta>
+              <etiqueta imaxe="CORRENTE.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="CUBO.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="LUVA.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="IRREGADOR.jpg" texto="">0</etiqueta>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="24" >
+              <tipo>24</tipo>
+              <cabeceira>CAI EM PÉ E CORRE DEITADA</cabeceira>
+              <etiqueta imaxe="CHUVA.png" texto="">1</etiqueta>
+              <etiqueta imaxe="CUBO.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="LUVA.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="ONCCA.png" texto="">0</etiqueta>
+              <etiqueta imaxe="PENTE.png" texto="">0</etiqueta>
+              <etiqueta imaxe="IRREGADOR.jpg" texto="">0</etiqueta>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="25" >
+              <tipo>35</tipo>
+              <cabeceira>ORDERNAR IMAGENS</cabeceira>
+              <forma>0</forma>
+              <completa>A.jpg</completa>
+              <completa>B.jpeg</completa>
+              <completa>C.jpg</completa>
+              <completa>LETRA_d.jpg</completa>
+              <completa>rLetraE.PNG</completa>
+        </paxina>
+        <paxina id="26" >
+              <tipo>35</tipo>
+              <cabeceira>ORDENAR IMAGENS</cabeceira>
+              <forma>0</forma>
+              <completa>FFF.jpg</completa>
+              <completa>GGG.jpg</completa>
+              <completa>HHH.png</completa>
+              <completa>I.jpg</completa>
+              <completa>JJJ.jpg</completa>
+        </paxina>
+        <paxina id="27" >
+              <tipo>35</tipo>
+              <cabeceira>ORDENAR IMAGENS</cabeceira>
+              <forma>0</forma>
+              <completa>kk.jpg</completa>
+              <completa>lll.png</completa>
+              <completa>MMM.jpg</completa>
+              <completa>NN.jpg</completa>
+              <completa>OOO.png</completa>
+        </paxina>
+        <paxina id="28" >
+              <tipo>35</tipo>
+              <cabeceira>ORDENAR IMAGENS</cabeceira>
+              <forma>0</forma>
+              <completa>PPP.jpg</completa>
+              <completa>QQQ.jpg</completa>
+              <completa>RR.png</completa>
+              <completa>SSS.png</completa>
+              <completa>TTT.jpg</completa>
+        </paxina>
+        <paxina id="29" >
+              <tipo>35</tipo>
+              <cabeceira>ORDENAR IMAGENS</cabeceira>
+              <forma>0</forma>
+              <completa>UUU.png</completa>
+              <completa>VVV.jpg</completa>
+              <completa>WWW.png</completa>
+              <completa>XXX.png</completa>
+              <completa>YY.jpg</completa>
+        </paxina>
+        <paxina id="30" >
+              <tipo>2</tipo>
+              <imaxe posx="160" posy="22">Z_GRA.png</imaxe>
+        </paxina>
+        <paxina id="31" >
+              <tipo>3</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>QUEBRA CABEÇA</cabeceira>
+              <imaxe>ABC.jpg</imaxe>
+              <imfondo  trans="20">ABC.jpg</imfondo>
+              <filas>7</filas>
+              <columnas>7</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="32" >
+              <tipo>2</tipo>
+              <texto posx="103" posy="115" ancho="400" largo="129"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="20">PARABÉNS, AULA FINALIZADA!</font></p>
+]]></texto>
+              <ctexto>FF0080</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="33" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>
